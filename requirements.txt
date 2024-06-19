@@ -1,0 +1,12 @@
+streamlit == 1.20.0
+pandas
+joblib
+plotly
+matplotlib
+Pillow
+statsmodels
+seaborn
+numpy
+pandas
+scikit-learn
+matplotlib==3.5.2
